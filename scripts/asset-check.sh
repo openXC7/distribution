@@ -54,7 +54,7 @@
 #   scripts/asset-check.sh <tag> --platform linux-x86-64   # repeatable filter
 #
 # Env: ASSET_CHECK_REPO to point at a fork (default
-#      cavearr/toolchain-openxc7-releases);
+#      openXC7/distribution);
 #      GH_TOKEN / GITHUB_TOKEN are used if set (API rate limits).
 
 set -euo pipefail
@@ -91,7 +91,7 @@ from pack.parts_index import (CHIPDB_SUBDIR, INDEX_ASSET, SCHEMA,  # noqa: E402
                               previous_index_asset_names, validate_document)
 from pack.release_tags import split_tag  # noqa: E402
 
-repo = os.environ.get("ASSET_CHECK_REPO", "cavearr/toolchain-openxc7-releases")
+repo = os.environ.get("ASSET_CHECK_REPO", "openXC7/distribution")
 # The assets carry the date of the tag, whatever its line: 2026-10-01 and
 # upstream-2026-10-01 both name ...-20261001.tgz (pack/release_tags.py).
 # The index is dated the same way, so its release-tag is that date.

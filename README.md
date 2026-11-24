@@ -1,4 +1,4 @@
-# toolchain-openxc7-releases
+# openXC7 toolchain distribution
 
 Binary releases of the [openXC7](https://github.com/openXC7) toolchain for
 **Xilinx 7-series FPGAs** (Artix-7, Spartan-7, Zynq-7000 PL): place and
@@ -475,9 +475,13 @@ built on [Project X-Ray](https://github.com/f4pga/prjxray),
 to their authors.
 
 This repository descends from
-[FPGAwars/tools-openxc7](https://github.com/FPGAwars/tools-openxc7), whose
-full history it carries, and is maintained by
-[Carlos Venegas (cavearr)](https://github.com/cavearr).
+[FPGAwars/tools-openxc7](https://github.com/FPGAwars/tools-openxc7) and
+[cavearr/toolchain-openxc7-releases](https://github.com/cavearr/toolchain-openxc7-releases),
+whose full history it carries, and is maintained by
+[Carlos Venegas (cavearr)](https://github.com/cavearr). The releases built
+before the move to openXC7 (November 2026), up to the stable `2026-11-19`,
+stay at
+[cavearr/toolchain-openxc7-releases](https://github.com/cavearr/toolchain-openxc7-releases/releases).
 
 ## License
 
