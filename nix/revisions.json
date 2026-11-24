@@ -3,8 +3,8 @@
     "owner": "openXC7",
     "repo": "nextpnr",
     "submodules": true,
-    "rev": "8d6d112a89047d151f29f1af8c808b3b4cce70c8",
-    "hash": "sha256-KUpiyd3Y1FoAta+lxlv4nXqKN23rqYP+x+utCKesiIU="
+    "rev": "236eca70683de36e6128e6987a656c79fc1c5524",
+    "hash": "sha256-KNPci4rfagYa/MmWDzqUi5bVfuWjVIAp4OhJcTXkfzc="
   },
   "prjxray-db": {
     "owner": "openXC7",

@@ -17,7 +17,7 @@ let
 in
 stdenv.mkDerivation rec {
   pname = "nextpnr-xilinx";
-  version = "1.0.0-unstable-2026-11-23";
+  version = "1.0.0-unstable-2026-11-24";
 
   # The himbaechel xilinx uarch of openXC7/nextpnr (apio#1070): the engine
   # the package moves to from the nextpnr-xilinx fork. The revision in
@@ -246,6 +246,11 @@ stdenv.mkDerivation rec {
   # package generates its dies from chipdb-parts.json. #190 changes the
   # chipdb generator: every chipdb is 12288 bytes smaller. The constids do
   # not change.
+  # Since 8d6d112a (236eca70, merged 2026-11-24): an IOLOGIC cell accepts
+  # an inverted clock without dropping the inversion (#216), ISERDESE2
+  # inputs left open are tied to their defaults (#225), and a global clock
+  # is marked active in every clock row it crosses (#228). The chipdb
+  # generator, constids and nextpnr-xilinx-meta submodule do not change.
   #
   # It installs as bin/nextpnr-xilinx, the name apio runs (the engine is
   # named in XILINX-PARTS-INDEX.json, not by the executable), and it
