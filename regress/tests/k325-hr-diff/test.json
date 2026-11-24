@@ -1,0 +1,18 @@
+{
+  "description": "LVDS_25 input on a high-range bank of xc7k325tffg676",
+  "exercises": [
+    "kintex7 high-range differential input",
+    "LIOB33 IBUFDS on bank 14 of xc7k325tffg676"
+  ],
+  "tags": ["kintex7", "io"],
+  "top": "k325_hr_diff",
+  "parts": ["xc7k325tffg676"],
+  "constraints": "constraints.xdc",
+  "expect": {
+    "primitives": { "IBUFDS": 1 },
+    "artifacts": ["bitstream"],
+    "fasm_contains": [
+      "LVDS_25_SSTL135_SSTL15\\.IN_DIFF"
+    ]
+  }
+}

@@ -1,16 +1,16 @@
-# demo-genesys2 — a known gap, kept on the record (expected-fail)
+# demo-genesys2 — kintex7 HP differential clock, positive
 
-**Status (2026-08-05): kintex7 is OUT of the manifest** — see below. This
-test is the tripwire that fires when the whole chain finally works.
+**Status (2026-11-24): the tripwire has tripped.** The design routes and
+`fasm2frames` writes the bitstream. The FASM carries `IBUFDS_BANK_GLUE`,
+`LVDS_SSTL12_SSTL135_SSTL15.IN_DIFF` and `SSTL12_SSTL135_SSTL15.IN_DIFF`,
+the features that used to be rejected.
 
-## The gap
+## The gap, closed
 
-The design routes; `fasm2frames` rejects the RIOB18 features
-(`IBUFDS_BANK_GLUE`, `SSTL*.IN_DIFF`, `*.IN_ONLY`): the kintex7 HP-bank
-differential-input bits were never fuzzed in the prjxray db. Genesys2 and
-KC705 only have LVDS clocks, so kintex7 support without IBUFDS is a
-broken promise — the family left the manifest and its boards left
-apio-definitions until round 3 (upstream prjxray fuzzing/investigation).
+Until 2026-08-05 this was an expected failure: `fasm2frames` rejected the
+RIOB18 differential-input features, the kintex7 HP-bank bits had not been
+fuzzed, and the family left the manifest. With the k325 chipdb in the
+package the same design completes. The expected-fail guard was flipped.
 
 ## Original probe description
 

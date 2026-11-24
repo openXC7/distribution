@@ -38,6 +38,7 @@
         xc7s75 = "xc7s100";
         xc7z007s = "xc7z010";
         xc7z035 = "xc7z045";
+        xc7k420t = "xc7k480t";
       };
       dieOf = part:
         let device = builtins.head (builtins.match

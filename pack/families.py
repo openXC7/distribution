@@ -36,6 +36,8 @@ DIE_ALIASES = {
     # the same alias the engine applies. It has no chipdb of its own.
     "xc7z007s": "xc7z010",
     "xc7z035": "xc7z045",
+    # xc7k420t is the xc7k480t fabric (prjxray-db kintex7/mapping/devices.yaml).
+    "xc7k420t": "xc7k480t",
 }
 
 

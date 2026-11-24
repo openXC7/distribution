@@ -970,6 +970,21 @@
       "pnr_seconds": 8.24
     }
   },
+  "demo-genesys2": {
+    "xc7k325tffg900": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/bin/clang++ 21.1.8)"
+      },
+      "ffs": 25,
+      "fmax_mhz": 416.3197326660156,
+      "luts": 56,
+      "pnr_seconds": 12.12
+    }
+  },
   "demo-zybo": {
     "xc7z010clg400": {
       "bit_bytes": 2083844,
@@ -1133,6 +1148,36 @@
       "fmax_mhz": 483.3252868652344,
       "luts": 9,
       "pnr_seconds": 8.13
+    }
+  },
+  "k325-blinky": {
+    "xc7k325tffg676": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/bin/clang++ 21.1.8)"
+      },
+      "ffs": 24,
+      "fmax_mhz": 419.2872009277344,
+      "luts": 48,
+      "pnr_seconds": 12.74
+    }
+  },
+  "k325-hr-diff": {
+    "xc7k325tffg676": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/bin/clang++ 21.1.8)"
+      },
+      "ffs": 24,
+      "fmax_mhz": 429.36883544921875,
+      "luts": 48,
+      "pnr_seconds": 12.52
     }
   },
   "lutram": {

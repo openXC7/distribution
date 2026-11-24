@@ -1,0 +1,8 @@
+{
+  "description": "Counter blinky on xc7k325tffg676 — first kintex7 coverage",
+  "exercises": ["kintex7 flow end-to-end", "xc7k325tffg676 packaging (QMTech)"],
+  "tags": ["board", "kintex7"],
+  "top": "k325_blinky",
+  "parts": ["xc7k325tffg676"],
+  "expect": { "primitives": { "FDRE": ">=24" } }
+}

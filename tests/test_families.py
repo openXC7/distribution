@@ -48,13 +48,16 @@ class TestDieOf(unittest.TestCase):
     """die_of: the chipdb file a part routes on (one per die)."""
 
     def test_every_die_of_the_manifest(self):
-        """The ten dies of today's manifest, from one part of each; the
-        expected values are the fabrics prjxray-db's mapping/devices.yaml
-        gives (a90f27c1)."""
+        """One part of each sampled die. The expected values are the
+        fabrics prjxray-db's mapping/devices.yaml gives."""
         for part, die in (
             ("xc7a100tcsg324", "xc7a100t"),
             ("xc7a200tffg1156", "xc7a200t"),
             ("xc7a50tcpg236", "xc7a50t"),
+            ("xc7k160tffg676", "xc7k160t"),
+            ("xc7k325tffg676", "xc7k325t"),
+            ("xc7k480tffg1156", "xc7k480t"),
+            ("xc7k70tfbg484", "xc7k70t"),
             ("xc7s25csga324", "xc7s25"),
             ("xc7s50ftgb196", "xc7s50"),
             ("xc7z010clg225", "xc7z010"),
@@ -79,7 +82,11 @@ class TestDieOf(unittest.TestCase):
         # xc7z007s routes on the xc7z010 chipdb (devices.yaml).
         self.assertEqual(device_of("xc7z007sclg400"), "xc7z007s")
         self.assertEqual(die_of("xc7z007sclg400"), "xc7z010")
+        # xc7k420t routes on the xc7k480t chipdb (devices.yaml).
+        self.assertEqual(device_of("xc7k420tffg1156"), "xc7k420t")
+        self.assertEqual(die_of("xc7k420tffg1156"), "xc7k480t")
         self.assertEqual(DIE_ALIASES, {"xc7a35t": "xc7a50t",
+                                       "xc7k420t": "xc7k480t",
                                        "xc7s75": "xc7s100",
                                        "xc7z007s": "xc7z010",
                                        "xc7z035": "xc7z045"})

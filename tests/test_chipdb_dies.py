@@ -68,7 +68,7 @@ class GenerateDiesTests(unittest.TestCase):
         self.assertFalse([s for s in seen if "xc7z100" in s and len(s) > 1])
 
     def test_an_unknown_die_counts_as_the_biggest(self):
-        self.assertEqual(chipdb.peak_of("xc7k480t"),
+        self.assertEqual(chipdb.peak_of("xc7vx485t"),
                          max(chipdb.DIE_PEAK_MIB.values()))
 
     def test_a_failure_stops_the_generation_and_is_raised(self):
