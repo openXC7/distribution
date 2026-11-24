@@ -111,8 +111,8 @@ if [ -n "${E2E_JSON:-}" ]; then
   cp "$E2E_JSON" blinky.json
 else
   echo "== synth (host yosys, part-agnostic) =="
-  # synth_xilinx, then write_json. YosysHQ oss-cad-suite 2026-11-04
-  # (yosys 0.70+329) leaves no $buf in the user module.
+  # synth_xilinx, then write_json. YosysHQ oss-cad-suite 2026-11-22
+  # (yosys 0.71+77) leaves no $buf in the user module.
   yosys -q -p "synth_xilinx -arch xc7 -top blinky; write_json blinky.json" \
         "$REPO/e2e/blinky.v"
 fi
