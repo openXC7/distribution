@@ -136,16 +136,24 @@ RELEASE_INFO = {
 PER_PACKAGE = "**`openxc7-toolchain-linux-x86-64-20260930.tgz`**\n```json\n{}\n```\n"
 
 
-def compose(info=RELEASE_INFO):
-    """Run scripts/release-body.py over *info*: (returncode, stdout, stderr)."""
+def compose(info=RELEASE_INFO, known_issues=None):
+    """Run scripts/release-body.py over *info*: (returncode, stdout, stderr).
+
+    When *known_issues* is given (a string), write it to a temporary file and
+    pass --known-issues; when None, let release-body.py read the repo's own
+    KNOWN-ISSUES.md.
+    """
     with tempfile.TemporaryDirectory() as scratch:
         info_path = Path(scratch) / "BUILD-INFO.json"
         md_path = Path(scratch) / "BUILD-INFOS.md"
         info_path.write_text(json.dumps(info), encoding="utf-8")
         md_path.write_text(PER_PACKAGE, encoding="utf-8")
-        result = subprocess.run(
-            [sys.executable, str(BODY_SCRIPT), str(info_path), str(md_path)],
-            capture_output=True, text=True, check=False)
+        args = [sys.executable, str(BODY_SCRIPT), str(info_path), str(md_path)]
+        if known_issues is not None:
+            ki_path = Path(scratch) / "KNOWN-ISSUES.md"
+            ki_path.write_text(known_issues, encoding="utf-8")
+            args += ["--known-issues", str(ki_path)]
+        result = subprocess.run(args, capture_output=True, text=True, check=False)
     return result.returncode, result.stdout, result.stderr
 
 
@@ -210,6 +218,36 @@ class ComposedBodyTests(unittest.TestCase):
         code, _, error = compose({**RELEASE_INFO, "yosys-release-tag": "unknown"})
         self.assertEqual(code, 1)
         self.assertIn("yosys-release-tag 'unknown'", error)
+
+    def test_known_issues_section_included_when_file_has_content(self):
+        code, body, error = compose()
+        self.assertEqual(code, 0, error)
+        self.assertIn("### Known issues\n", body)
+        self.assertIn("openXC7/nextpnr#222", body)
+        self.assertLess(body.index("### Known issues\n"),
+                        body.index("### Pre-release note\n"))
+        code2, body2, error2 = compose(known_issues="- Example issue (#999)\n")
+        self.assertEqual(code2, 0, error2)
+        self.assertIn("### Known issues\n- Example issue (#999)\n", body2)
+        self.assertLess(body2.index("### Known issues\n"),
+                        body2.index("### Pre-release note\n"))
+
+    def test_known_issues_section_omitted_when_file_is_empty(self):
+        for content in ("", "   \n\n", "<!-- comment only -->\n"):
+            code, body, error = compose(known_issues=content)
+            self.assertEqual(code, 0, error)
+            self.assertNotIn("### Known issues", body)
+
+    def test_known_issues_survives_promotion(self):
+        code, body, error = compose()
+        self.assertEqual(code, 0, error)
+        self.assertIn("### Known issues\n", body)
+        self.assertIn("### Pre-release note\n", body)
+        trimmed = trim(body)
+        self.assertNotIn("### Pre-release note", trimmed)
+        self.assertNotIn("will be deleted", trimmed)
+        self.assertIn("### Known issues\n", trimmed)
+        self.assertIn("openXC7/nextpnr#222", trimmed)
 
 
 UPSTREAM_INFO = {

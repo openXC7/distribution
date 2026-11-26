@@ -459,6 +459,7 @@ distribution, an installer or a build system can do the same.
 | `flake.nix`, `nix/` | The reproducible build: every package, the dev shells and the Windows cross recipe; `nix/revisions.json` records the four source revisions |
 | `openxc7-pack.py`, `pack/`, `macpack.py` | The packer: a thin CLI over the `pack/` modules (unit-tested in `tests/`); the macOS backend relocates Mach-O libraries and signs them |
 | `chipdb-parts.json` | The part manifest (family → footprints) |
+| `KNOWN-ISSUES.md` | Known issues included in dated release notes by `scripts/release-body.py` (omitted when empty) |
 | `xc7pll` | The PLL calculator |
 | `regress/` | The regression suite (tests, baselines, locked third-party demos) |
 | `scripts/`, `e2e/` | Validation you can run locally, the release tooling and the multi-part end-to-end |

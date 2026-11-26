@@ -43,6 +43,8 @@ PACKAGE = "openxc7-toolchain"
 PLATFORMS = ("linux-x86-64", "darwin-arm64", "windows-amd64")
 SUITE = "https://github.com/YosysHQ/oss-cad-suite-build/releases/tag"
 REVISIONS = REPO_ROOT / "nix/revisions.json"
+KNOWN_ISSUES = REPO_ROOT / "KNOWN-ISSUES.md"
+HTML_COMMENT = re.compile(r"<!--.*?-->", re.DOTALL)
 
 # component -> its entry in nix/revisions.json
 SOURCES = {
@@ -55,6 +57,16 @@ SOURCES = {
 
 def load_revisions(path=REVISIONS):
     return json.loads(Path(path).read_text(encoding="utf-8"))
+
+
+def load_known_issues(path=KNOWN_ISSUES):
+    """Read the markdown body of the Known issues section, or '' when absent,
+    empty, or containing only HTML comments and whitespace."""
+    path = Path(path)
+    if not path.is_file():
+        return ""
+    text = HTML_COMMENT.sub("", path.read_text(encoding="utf-8"))
+    return text.strip()
 
 
 def revisions(info, recorded=None):
@@ -113,7 +125,7 @@ def drift_section(reports):
     return lines + [""]
 
 
-def body(info, per_package, main_revisions=None, reports=None):
+def body(info, per_package, main_revisions=None, reports=None, known_issues=None):
     tag = info["release-tag"]
     line, day = split_tag(tag)
     date = day.replace("-", "")
@@ -142,7 +154,7 @@ def body(info, per_package, main_revisions=None, reports=None):
     lines += [
         f"openXC7 toolchain — {tag}: `nextpnr-xilinx`, prjxray (`xc7frames2bit`,",
         "`bitread`, `xc7patch`), `fasm2frames` and the chipdb for Xilinx",
-        "7-series FPGAs (Artix-7, Spartan-7, Zynq-7000 PL), one package per",
+        "7-series FPGAs (Artix-7, Kintex-7, Spartan-7, Zynq-7000 PL), one package per",
         "platform. Validated by CI on the three platforms: package gate,",
         "multi-part end-to-end and regression suite.",
         "",
@@ -260,6 +272,14 @@ def body(info, per_package, main_revisions=None, reports=None):
             "`nix/revisions.json` on the main line.",
         ]
         return "\n".join(lines) + "\n"
+    if known_issues is None:
+        known_issues = load_known_issues()
+    if known_issues:
+        lines += [
+            "### Known issues",
+            known_issues,
+            "",
+        ]
     lines += [
         "### Pre-release note",
         "This daily release was created as a pre-release and will be deleted",
@@ -282,13 +302,16 @@ def main(argv):
                         help="nix/revisions.json of the main line (upstream tags)")
     parser.add_argument("--drift", type=Path, nargs="*", default=[],
                         help="regress.sh --report-only JSON reports (upstream tags)")
+    parser.add_argument("--known-issues", type=Path, default=KNOWN_ISSUES,
+                        help="markdown file for the Known issues section (dated releases)")
     args = parser.parse_args(argv)
     info = json.loads(args.build_info.read_text(encoding="utf-8"))
     per_package = args.per_package.read_text(encoding="utf-8")
     main_revisions = load_revisions(args.main_revisions) if args.main_revisions else None
     reports = [json.loads(path.read_text(encoding="utf-8")) for path in args.drift]
+    known_issues = load_known_issues(args.known_issues)
     try:
-        sys.stdout.write(body(info, per_package, main_revisions, reports))
+        sys.stdout.write(body(info, per_package, main_revisions, reports, known_issues))
     except (KeyError, ValueError) as error:
         sys.exit(f"release-body: {error}")
 
