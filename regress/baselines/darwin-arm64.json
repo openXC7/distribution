@@ -5,8 +5,8 @@
       "brams": 1,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 26,
       "fmax_mhz": 506.0728759765625,
@@ -20,8 +20,8 @@
       "brams": 1,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 9,
       "fmax_mhz": 552.1810913085938,
@@ -35,8 +35,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 96,
       "fmax_mhz": 398.2477111816406,
@@ -50,8 +50,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 7,
       "fmax_mhz": 425.1700744628906,
@@ -65,8 +65,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 128,
       "fmax_mhz": 235.12815856933594,
@@ -80,8 +80,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 44,
       "fmax_mhz": 402.7386169433594,
@@ -95,8 +95,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 12288,
       "fmax_mhz": 441.89129638671875,
@@ -110,8 +110,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 12288,
       "fmax_mhz": 430.47784423828125,
@@ -125,8 +125,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -138,8 +138,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -151,8 +151,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -164,8 +164,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -177,8 +177,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -190,8 +190,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -203,8 +203,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -216,8 +216,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -229,8 +229,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -242,8 +242,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -255,8 +255,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -268,8 +268,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -281,8 +281,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -294,8 +294,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -307,8 +307,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -320,8 +320,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -333,8 +333,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -346,8 +346,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -359,8 +359,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -372,8 +372,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -385,8 +385,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -398,21 +398,177 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
       "luts": 1,
       "pnr_seconds": 3.11
     },
+    "xc7k160tfbg484": {
+      "bit_bytes": 6692677,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 8.42
+    },
+    "xc7k160tfbg676": {
+      "bit_bytes": 6692677,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1169.590576171875,
+      "luts": 1,
+      "pnr_seconds": 7.09
+    },
+    "xc7k160tfbv484": {
+      "bit_bytes": 6692677,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 7.16
+    },
+    "xc7k160tfbv676": {
+      "bit_bytes": 6692677,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1169.590576171875,
+      "luts": 1,
+      "pnr_seconds": 8.16
+    },
+    "xc7k160tffg676": {
+      "bit_bytes": 6692677,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1169.590576171875,
+      "luts": 1,
+      "pnr_seconds": 8.41
+    },
+    "xc7k160tffv676": {
+      "bit_bytes": 6692677,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1169.590576171875,
+      "luts": 1,
+      "pnr_seconds": 6.52
+    },
+    "xc7k325tffg676": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 9.88
+    },
+    "xc7k325tffg900": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 8.71
+    },
+    "xc7k70tfbg484": {
+      "bit_bytes": 3011428,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 4.17
+    },
+    "xc7k70tfbg676": {
+      "bit_bytes": 3011428,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 3.37
+    },
+    "xc7k70tfbv484": {
+      "bit_bytes": 3011428,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 2.53
+    },
+    "xc7k70tfbv676": {
+      "bit_bytes": 3011428,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 1,
+      "fmax_mhz": 1176.4705810546875,
+      "luts": 1,
+      "pnr_seconds": 3.18
+    },
     "xc7s100fgga484": {
       "bit_bytes": 3686917,
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1053.74072265625,
@@ -424,8 +580,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1053.74072265625,
@@ -437,8 +593,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -450,8 +606,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -463,8 +619,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -476,8 +632,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -489,8 +645,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -502,8 +658,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -515,8 +671,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1053.74072265625,
@@ -528,8 +684,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1053.74072265625,
@@ -541,8 +697,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -554,8 +710,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -567,8 +723,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -580,8 +736,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -593,8 +749,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -606,8 +762,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -619,8 +775,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -632,8 +788,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -645,8 +801,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -658,8 +814,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -671,8 +827,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -684,8 +840,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -697,8 +853,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -710,8 +866,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -723,8 +879,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -736,8 +892,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -749,8 +905,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -762,8 +918,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -775,8 +931,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -788,8 +944,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -801,8 +957,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -814,8 +970,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -827,8 +983,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -840,8 +996,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -853,8 +1009,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -866,8 +1022,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -879,8 +1035,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -892,8 +1048,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -905,8 +1061,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -918,8 +1074,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -931,8 +1087,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1024.5902099609375,
@@ -946,8 +1102,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 25,
       "fmax_mhz": 408.16326904296875,
@@ -961,13 +1117,28 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 25,
       "fmax_mhz": 387.596923828125,
       "luts": 56,
       "pnr_seconds": 2.67
+    }
+  },
+  "demo-genesys2": {
+    "xc7k325tffg900": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 25,
+      "fmax_mhz": 416.3197326660156,
+      "luts": 56,
+      "pnr_seconds": 8.98
     }
   },
   "demo-zybo": {
@@ -976,8 +1147,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 25,
       "fmax_mhz": 387.596923828125,
@@ -991,8 +1162,8 @@
       "brams": 0,
       "dsps": 1,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 96,
       "fmax_mhz": 290.7822265625,
@@ -1006,8 +1177,8 @@
       "brams": 0,
       "dsps": 1,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 0,
       "fmax_mhz": null,
@@ -1021,8 +1192,8 @@
       "brams": 0,
       "dsps": 1,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 0,
       "fmax_mhz": null,
@@ -1036,8 +1207,8 @@
       "brams": 0,
       "dsps": 1,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 0,
       "fmax_mhz": null,
@@ -1051,8 +1222,8 @@
       "brams": 0,
       "dsps": 1,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 36,
       "fmax_mhz": 429.1845703125,
@@ -1066,8 +1237,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 257,
       "fmax_mhz": 461.46746826171875,
@@ -1081,8 +1252,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 13,
       "fmax_mhz": 541.7117919921875,
@@ -1096,8 +1267,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 9,
       "fmax_mhz": 599.1611938476562,
@@ -1111,8 +1282,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 9,
       "fmax_mhz": 599.1611938476562,
@@ -1126,13 +1297,43 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 22,
       "fmax_mhz": 434.5936279296875,
       "luts": 9,
       "pnr_seconds": 2.74
+    }
+  },
+  "k325-blinky": {
+    "xc7k325tffg676": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 24,
+      "fmax_mhz": 419.2872009277344,
+      "luts": 48,
+      "pnr_seconds": 8.78
+    }
+  },
+  "k325-hr-diff": {
+    "xc7k325tffg676": {
+      "bit_bytes": 11443717,
+      "brams": 0,
+      "dsps": 0,
+      "env": {
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+      },
+      "ffs": 24,
+      "fmax_mhz": 429.36883544921875,
+      "luts": 48,
+      "pnr_seconds": 9.37
     }
   },
   "lutram": {
@@ -1141,11 +1342,11 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 28,
-      "fmax_mhz": 555.8643798828125,
+      "fmax_mhz": 599.1611938476562,
       "luts": 48,
       "pnr_seconds": 2.96
     }
@@ -1156,8 +1357,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 26,
       "fmax_mhz": 372.5782470703125,
@@ -1171,8 +1372,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 1,
       "fmax_mhz": 1043.84130859375,
@@ -1186,8 +1387,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 22,
       "fmax_mhz": 398.88311767578125,
@@ -1201,8 +1402,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 24,
       "fmax_mhz": 398.88311767578125,
@@ -1216,8 +1417,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 40,
       "fmax_mhz": 262.4671936035156,
@@ -1231,8 +1432,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 31,
       "fmax_mhz": 377.64349365234375,
@@ -1246,8 +1447,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 24,
       "fmax_mhz": 420.6983337402344,
@@ -1261,8 +1462,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 0,
       "fmax_mhz": 509.6839904785156,
@@ -1276,8 +1477,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 0,
       "fmax_mhz": 482.8584899902344,
@@ -1291,8 +1492,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 0,
       "fmax_mhz": 482.8584899902344,
@@ -1306,8 +1507,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 24,
       "fmax_mhz": 398.88311767578125,
@@ -1321,8 +1522,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 24,
       "fmax_mhz": 398.88311767578125,
@@ -1336,8 +1537,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 38,
       "fmax_mhz": 425.71307373046875,
@@ -1351,8 +1552,8 @@
       "brams": 2,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 20,
       "fmax_mhz": 506.0728759765625,
@@ -1366,8 +1567,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 28,
       "fmax_mhz": 391.5426940917969,
@@ -1381,8 +1582,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 65,
       "fmax_mhz": 866.5510864257812,
@@ -1396,8 +1597,8 @@
       "brams": 0,
       "dsps": 0,
       "env": {
-        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 8d6d112a)",
-        "yosys": "Yosys 0.70+329 (git sha1 b8d84f823, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
+        "nextpnr": "\"nextpnr-xilinx\" -- Next Generation Place and Route (Version 236eca70)",
+        "yosys": "Yosys 0.71+77 (git sha1 11d972c20, Release, Clang /usr/local/osxcross/target/bin/aarch64-apple-darwin25.5-clang++ 21.1.8)"
       },
       "ffs": 24,
       "fmax_mhz": 420.6983337402344,
