@@ -10,14 +10,14 @@ let
   # binary, the chipdb generator and the Windows cross see one tree.
   upstream = fetchFromGitHub {
     inherit (source) owner repo rev hash;
-    # himbaechel/uarch/xilinx/meta (openXC7/nextpnr-xilinx-meta 8a3f5a09)
+    # himbaechel/uarch/xilinx/meta (openXC7/nextpnr-xilinx-meta 6a354586)
     # is what the chipdb generator reads the site and wire metadata from.
     fetchSubmodules = source.submodules;
   };
 in
 stdenv.mkDerivation rec {
   pname = "nextpnr-xilinx";
-  version = "1.0.0-unstable-2026-11-24";
+  version = "1.0.0-unstable-2026-11-26";
 
   # The himbaechel xilinx uarch of openXC7/nextpnr (apio#1070): the engine
   # the package moves to from the nextpnr-xilinx fork. The revision in
@@ -251,6 +251,16 @@ stdenv.mkDerivation rec {
   # inputs left open are tied to their defaults (#225), and a global clock
   # is marked active in every clock row it crosses (#228). The chipdb
   # generator, constids and nextpnr-xilinx-meta submodule do not change.
+  # Since 236eca70 (7077312a, merged 2026-11-26): the IOLOGIC site walks
+  # stay in the IO column and stop with a clear error when no site matches
+  # (#229). A constant on ISERDESE2 SHIFTIN1/2 or OCLK/OCLKB is treated as
+  # unconnected in NETWORKING mode and rejected with a clear error in
+  # MEMORY*/OVERSAMPLE (#224; #237 names the conditions, interns the
+  # IOLOGIC inversion names only when folding and guards the case in CI).
+  # The nextpnr-xilinx-meta submodule moves from 8a3f5a09 to 6a354586
+  # (#238), adding the four Zynq HP IOLOGIC site types so an ODDR/IDDR on
+  # a Zynq HP bank builds: the chipdb of xc7z030, xc7z045 and xc7z100
+  # changes (+177033 bytes each); the generator and constids do not change.
   #
   # It installs as bin/nextpnr-xilinx, the name apio runs (the engine is
   # named in XILINX-PARTS-INDEX.json, not by the executable), and it
