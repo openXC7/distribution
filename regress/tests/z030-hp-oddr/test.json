@@ -1,0 +1,37 @@
+{
+  "description": "An ODDR driving an HP-bank pad (B5, bank 34) of xc7z030fbg676",
+  "exercises": [
+    "an ODDR on a Zynq HP bank (RIOI / OLOGIC site types from nextpnr-xilinx-meta)",
+    "OLOGIC_Y0 ODDR features and RIOI_OLOGIC0_OQ routing in RIOI_X79Y109"
+  ],
+  "why": "Until openXC7/nextpnr#238 updated nextpnr-xilinx-meta to 6a354586, the four Zynq HP IOLOGIC site types were missing from the xc7z030, xc7z045 and xc7z100 chipdbs, so HP IOI tiles had no OLOGIC or ILOGIC sites and placing an ODDR on an HP pad failed (openXC7/nextpnr#227). Before #229 bounded the IOLOGIC site walk to the IO column, the search did not terminate; a 45 s timeout guards that hang class as well.",
+  "tags": [
+    "zynq7",
+    "io",
+    "primitive"
+  ],
+  "sources": [
+    "design.v"
+  ],
+  "top": "z030_hp_oddr",
+  "parts": [
+    "xc7z030fbg676"
+  ],
+  "constraints": "constraints.xdc",
+  "timeout": 45,
+  "expect": {
+    "primitives": {
+      "ODDR": 1,
+      "BUFG": 1
+    },
+    "artifacts": [
+      "bitstream"
+    ],
+    "fasm_contains": [
+      "^RIOI_X79Y109\\.OLOGIC_Y0\\.ODDR_TDDR\\.IN_USE$",
+      "^RIOI_X79Y109\\.OLOGIC_Y0\\.OQUSED$",
+      "^RIOI_X79Y109\\.OLOGIC_Y0\\.OSERDES\\.DATA_RATE_OQ\\.DDR$",
+      "^RIOI_X79Y109\\.RIOI_O0\\.RIOI_OLOGIC0_OQ$"
+    ]
+  }
+}
