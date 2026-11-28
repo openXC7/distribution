@@ -17,8 +17,8 @@
     "owner": "openXC7",
     "repo": "prjxray",
     "submodules": true,
-    "rev": "930365e9b2b1f3e1b843f688e2598b532551eb3b",
-    "hash": "sha256-yie8G+plKASy1MIk4k6H0j0q7FWV18nZLupQbkqqZWc="
+    "rev": "730b8217a60baf014684891c7e569308edb32044",
+    "hash": "sha256-stScN6rSR7ZYwczlDXYceYe6qJgBf/gM/MykCUeSeiw="
   },
   "fasm": {
     "owner": "openxc7",
